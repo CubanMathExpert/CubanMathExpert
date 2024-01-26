@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CubanMathExpert (Raphael Gonzalez Carvajal)
 - 👀 I’m interested in ... Computer Graphics
-- 🌱 I’m currently learning ... VULKAN
+- 🌱 I’m currently learning ... Fluid dynamics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
